@@ -1,25 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About Me
+tags: [about, Abhinav]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
-image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+#image:
+#  feature: texture-feature-03.jpg
+#  credit: Texture Lovers
+#  creditlink: http://texturelovers.com
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I'm a generalist with interest in entrepreneurship, programming, social sciences, emerging business models and emerging markets.
 
-## Minimal Mistakes is all about:
+## A few things about me:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* I grew up in [Narsinghgarh](http://en.wikipedia.org/wiki/Narsinghgarh,_Rajgarh), a beautiful little town in Madhya Pradesh, India.
+* In my nine years of engineering experience, I have developed large scale data products, platform services, logistics and supply chain management systems, social games and social e-commerce systems. 
+* I can code in more than ten programming languages, and have written production code in seven of them. Currently, I am learning [elixir](http://elixir-lang.org/), a new functional programming language similar to ruby in syntax built on top of Erlang VM.
+* I am a big Gulzar fan, and I believe, he is one of the greatest poets alive.
+* I love adrak chai and filter coffee.

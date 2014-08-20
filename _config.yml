@@ -1,8 +1,9 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Abhinav Saxena
 locale:           en_US
-url:              http://localhost:4000
+url:              http://www.abhinavsaxena.com
+#url:              http://localhost:4000
 
 
 # Jekyll configuration
@@ -26,13 +27,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Abhinav Saxena
+  avatar: abhinav.jpeg
+  bio: "a body of clay, a mind full of play, a moment's life - that is me"
   email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  disqus-shortname: shabdabhinav
+  twitter: abhinav
+  facebook: abhinavs
   google:
     plus: #username
     analytics: 
@@ -40,9 +41,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: abhinavs
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: abhinavs
   instagram: #username
   lastfm: #username
   tumblr: #username
