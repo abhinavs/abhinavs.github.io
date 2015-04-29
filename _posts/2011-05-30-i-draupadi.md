@@ -36,6 +36,6 @@ Towards paradise they walked, no one stayed by my side.
 Then, I realised heaven too must be only for men
 Better then to rest in the warm embrace of this snow.
 
--Kartikeya Sarabhai
+- Kartikeya Sarabhai
 </pre>
 </div>
