@@ -6,6 +6,7 @@ url:              http://www.abhinavsaxena.com
 #url:              http://localhost:4000
 
 
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -30,17 +31,17 @@ owner:
   name: Abhinav Saxena
   avatar: abhinav.jpeg
   bio: "a body of clay, a mind full of play, a moment's life - that is me"
-  email: 
+  email:
   disqus-shortname: shabdabhinav
   twitter: abhinav
   facebook: abhinavs
   google:
     plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: abhinavs
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: abhinavs
@@ -51,6 +52,10 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: abhinavsaxena
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
