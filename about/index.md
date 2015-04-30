@@ -6,6 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
   feature: sample-image-2.jpg
+---
 
 I'm a generalist with interest in entrepreneurship, programming, social sciences, emerging business models and emerging markets.
 

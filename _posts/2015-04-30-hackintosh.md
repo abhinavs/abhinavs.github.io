@@ -12,7 +12,7 @@ try it out for the first time. Though it took me more than five hours to get it 
 <br />
 If you are also trying out yourself, follow these steps:
 
-* Follow instructions given on [this page](http://www.tonymacx86.com/yosemite-desktop-guides/143976-unibeast-install-os-x-yosemite-any-supported-intel-based-pc.html#create_unibeast) and downloaded Yosemite from AppStore and create a UniBeast enabled bootable USB drive. This process should be pretty simple.
+* Follow instructions given on [this page](http://www.tonymacx86.com/yosemite-desktop-guides/143976-unibeast-install-os-x-yosemite-any-supported-intel-based-pc.html#create_unibeast), download Yosemite from AppStore and create a UniBeast enabled bootable USB drive. This process should be pretty simple.
 * Using the bootable drive, try installing it on your PC. However, If you are unlucky like me, installation will keep ending abruptly. Don't panic. First suggestion is to boot using -v flag and try finding exact problem.
 * In my case, I kept getting `still waiting for root device` error. I tried a lot of things including manually fixing UniBeast drive. Here is the final snapshot of my `Extra/org.chameleon.Boot.plist`
 {% gist 85041db0de4bc74798a4 %}
