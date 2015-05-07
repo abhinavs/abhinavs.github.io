@@ -5,11 +5,9 @@ excerpt: "My thoughts on future of mobile apps"
 tags: [Mobile, Apps, Cards]
 comments: true
 ---
-<div class="highlight">
-    <div style="margin:10px">
-        I found it hard to convey my thoughts in form of coherent text, wrote in points instead.
-    </div>
-</div>
+
+I found it hard to convey my thoughts in form of coherent text, wrote in points instead.
+{: .notice}
 
 * Today's desktop browsers are very powerful. We use them for communication,
 entertainment and almost all our needs. And we use search engines
@@ -35,4 +33,3 @@ third party integrations.
 traditional pull based search engine model. Interaction will be more contextual and
 personalized depending upon users' habits and preferences. It will also be
 more pushed based then pull. It is the future of Siri too.
-
