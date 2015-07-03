@@ -6,7 +6,9 @@ author: shikhi
 tags: [Shikhi]
 comments: true
 ---
-
+Shikhi felt very strongly about the recent drink and drive case and wrote about it in this post.
+{: .notice}
+<br/>
 Do educated people know how to behave in a society? I should say yes. But what
 is education anyway? Does getting a degree, earning a good salary, eating and drinking in plush
 hotels make you a well educated and responsible citizen? We mistake people with
