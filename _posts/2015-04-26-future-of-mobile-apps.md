@@ -12,7 +12,7 @@ I found it hard to convey my thoughts in form of coherent text, wrote in points 
 * Today's desktop browsers are very powerful. We use them for communication,
 entertainment and almost all our needs. And we use search engines
 and social networks to discover websites and pages.
-* Mobile OS market is pretty segmented with iOS, android and windows platforms.
+* Mobile OS market is pretty fragmented with iOS, android and windows platforms.
 It is difficult for app makers to develop, maintain and market native apps for all these
 platforms.
 * It is also very difficult for consumers to discover and download all these
