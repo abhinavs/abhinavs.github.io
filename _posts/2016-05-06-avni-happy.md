@@ -1,0 +1,18 @@
+---
+layout: post
+title: कुछ मुस्कुराहट और कुछ ग़ुस्सा
+#excerpt: ""
+tags: [Avni]
+comments: true
+---
+<figure>
+    <a href="/images/avni-collage.jpg"><img src="/images/avni-collage.jpg"></a>
+</figure>
+
+>कुछ मुस्कुराहट और कुछ ग़ुस्सा
+<br />
+>बहुत सारी नींद और थोड़ी चालाकी है
+<br />
+>मम्मी-पापा तो बिलकुल कच्चे खिलाड़ी हैं
+<br />
+>उन्हें कितना कुछ सिखाना बाक़ी है
