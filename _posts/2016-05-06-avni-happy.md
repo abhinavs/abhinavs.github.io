@@ -2,7 +2,7 @@
 layout: post
 title: कुछ मुस्कुराहट और कुछ ग़ुस्सा
 #excerpt: ""
-tags: [Avni]
+tags: [Avni, poetry]
 comments: true
 ---
 <figure>
