@@ -1,7 +1,7 @@
 ---
 layout: post
-title: कुछ मुस्कुराहट और कुछ ग़ुस्सा
-#excerpt: ""
+title: Avni's first month
+excerpt: कुछ मुस्कुराहट और कुछ ग़ुस्सा
 tags: [Avni, poetry]
 comments: true
 ---

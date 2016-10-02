@@ -1,6 +1,6 @@
 ---
 layout: post
-title: गार्बेज ट्रक
+title: Garbage Truck
 excerpt: "शुभचिंतक नहीं, गार्बेज ट्रक है वह"
 tags: [poetry]
 comments: true
