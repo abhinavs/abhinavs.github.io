@@ -4,8 +4,8 @@ title: About Me
 tags: [about, Abhinav]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
-image:
-  feature: sample-image-2.jpg
+#image:
+#  feature: sample-image-2.jpg
 ---
 
 I'm a generalist with interest in entrepreneurship, programming, social sciences, emerging business models and emerging markets.
@@ -18,5 +18,11 @@ I'm a generalist with interest in entrepreneurship, programming, social sciences
 * I am a big Gulzar fan, and I believe, he is one of the greatest poets alive.
 * I love adrak chai and filter coffee.
 
-### Usual disclaimer
+## A few things I can't do
+* I can't multi-task, I am extremely poor at it.
+* I can't handle office politics, I tend to wither in such environments.
+* I can't play video games - tried as a kid, gave up pretty quickly.
+* I can't get up early morning - well, I can if needed but I don't like to.
+
+## Usual disclaimer
 This is a personal blog. Any views or opinions represented in this blog are personal and belong solely to me and do not represent those of my employer.
