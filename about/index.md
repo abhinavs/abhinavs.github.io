@@ -26,6 +26,30 @@ I'm a generalist with interest in entrepreneurship, programming, poetry, social 
 * I can't play video games - tried as a kid, gave up pretty quickly.
 * I can't get up early morning - well, I can if needed but I don't like to.
 
+## Favourite Quotes
+>The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.
+
+–- George Bernard Shaw
+
+>I must study politics and war that my sons may have liberty to study mathematics and philosophy. My sons ought to study mathematics and philosophy, geography, natural history, naval architecture, navigation, commerce, and agriculture, in order to give their children a right to study painting, poetry, music, architecture, statuary, tapestry, and porcelain.
+
+-- John Adams
+
+>A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
+
+–- Robert Heinlein
+
+>Weekends don't count unless you spend them doing something completely pointless
+
+-- Calvin
+
+>Sleep is the best meditation.
+
+-- Dalai Lama
+
+>Life is like topography, Hobbes. There are summits of happiness and success, flat stretches of boring routine and valleys of frustration and failure.
+
+-- Calvin
 
 ### Usual disclaimer
 This is a personal blog. Any views or opinions represented in this blog are personal and belong solely to me and do not represent those of my employer.
