@@ -2,7 +2,7 @@
 layout: post
 title: Posts I read last week
 excerpt: "17-23 October 2016"
-tags: [Uber, Tinder, Engineering]
+tags: [Uber, Tinder, Engineering, WeekendReading]
 comments: true
 ---
 #### India
