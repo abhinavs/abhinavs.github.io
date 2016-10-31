@@ -25,4 +25,4 @@ This is what distinguish money from currency. Money has the ability to preserve 
 
 <br />
 
-This is the reason Satoshi Nakamoto designed Bitcoin to have a cap. More on Bitcoin in later posts.
+One a related note, this is the reason Satoshi Nakamoto designed Bitcoin to have a cap. I will write more on Bitcoin in later posts.
