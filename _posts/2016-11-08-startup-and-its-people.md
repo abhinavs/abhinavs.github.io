@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Start up vs company
+title: Start up vs Big Company
 #excerpt: ""
 tags: [Hindi]
 comments: true
