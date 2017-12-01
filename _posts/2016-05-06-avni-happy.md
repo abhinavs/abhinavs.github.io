@@ -6,7 +6,7 @@ tags: [Avni, poetry]
 comments: true
 ---
 <figure>
-    <a href="http://abhinavsaxena.com/images/avni-collage.jpg"><img src="http://abhinavsaxena.com/images/avni-collage.jpg"></a>
+    <a href="/images/avni-collage.jpg"><img src="/images/avni-collage.jpg"></a>
 </figure>
 
 >कुछ मुस्कुराहट और कुछ ग़ुस्सा

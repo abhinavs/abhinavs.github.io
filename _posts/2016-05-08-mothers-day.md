@@ -9,7 +9,7 @@ comments: true
 ---
 
 <figure>
-    <a href="http://abhinavsaxena.com/images/avni-shikhi.jpg"><img src="http://abhinavsaxena.com/images/avni-shikhi.jpg"></a>
+    <a href="/images/avni-shikhi.jpg"><img src="/images/avni-shikhi.jpg"></a>
 </figure>
 
 
