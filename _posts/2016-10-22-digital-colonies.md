@@ -11,6 +11,6 @@ To be clear, I am against government's control of information and thereby minds,
 <br /><br />
 Today's world is driven by growth; investors and shareholders want their investments to keep growing and therefore, it is important, even for existing successful companies, to keep investing in building new platforms to sustain growth. Did you ever wonder why Facebook bought Oculus, why Google built Android and Chrome, or why both Apple and Google are interested in cars as a platform?
 <br /><br />
-As an entrepreneur too, I worry about this - ten years ago, when I first tried starting up, world was very different, and it was still possible for a young startup to compete and grow. However, today it scares me to see some of the well-funded Indian companies struggle against global counterparts. I think it is exponentially difficult to build a successful company from scratch now.
+As a person with entrepreneurial bent, I worry about this - ten years ago, when I first tried starting up, world was very different, and it was still possible for a young startup to compete and grow. However, today it scares me to see some of the well-funded Indian companies struggle against global counterparts. I think it is exponentially difficult to build a successful company from scratch now.
 <br /><br />
 Believe it or not, we are digital colonies of these new age technology companies.

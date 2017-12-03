@@ -24,8 +24,7 @@ but also doing it for the right reasons. Motive matters.
 <br />
 <br />
 Kant mentions duty and inclinations, and argues that morally right is
-done for sake of duty and not for selfish inclinations. Consider this
-- if a shopkeeper
+done for sake of duty and not for selfish inclinations. Consider this - if a shopkeeper
 does not cheat his customers because he thinks he is a moral person,
 then again, he is morally wrong. He should consider it as his duty.
 <br />
@@ -36,4 +35,4 @@ Doing your duty without considering the potential benefit you might
 get is the right thing to do (karmandeya ma phaluese kadachana)
 whereas the common notion is doing your duty will improve your karma
 points which will help you later (if you believe in reincarnation,
-it might be helpful in laters births too). Hope you see that all of this is morally wrong.
+they might be helpful in laters births too). Hope you see that all of this is morally wrong.

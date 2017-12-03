@@ -6,19 +6,19 @@ tags: [Programming, Languages]
 comments: true
 ---
 Have you ever wondered how kids learn their first set of languages,
-and how it is different from the way, we, grown-ups, learn new languages?
+and how it is different from the way, we grown-ups, learn new languages?
 I think, kids learn them and the real world at the same time,
 hence they map words with real things - like the word 'chocolate' with
 something sweet in a wraper they love to eat.
 <br />
 <br />
 On the other hand, when grown-ups try to learn one - they
-mostly map words in it with corresponding language they
+mostly map words in it with corresponding words in the language they
 already know - like 'halu' in Kannada means milk.
 <br />
 <br />
 Intuitively, the grown-ups' way of learning new languages looks more
-efficient, but if you have ever tried learning a new one, you
+efficient, but if you have ever tried learning a new language, you
 will know it's not that easy. Somehow,
 kids seem to pick languages easily than grown-ups. Of course, there are
 people who are very good at picking them up, and can learn multiple

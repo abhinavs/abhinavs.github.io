@@ -14,7 +14,7 @@ From this context I have been thinking about how do companies become lasting gia
 *Step 0* - create a product which your (niche) target customers love, grow it, and achieve product market fit. Easier said than done, however a lot of companies stop here (either they get acquired or perish - ex. WhatsApp, Yahoo, Pinterest, Dropbox)
 
 <br />
-*Step 1* - bring at least one other type of users (network) on your platform who create value for your consumers. They could be developers, sellers, property owners etc. This creates a huge network effect, and help the company elevate its status from a great company to a lasting giant.
+*Step 1* - bring at least one other type of users (network) on your platform who create value for your consumers. They could be developers, sellers, property owners etc. If interaction between both of these networks is more efficient than any other existing mechanisms, it creates a huge network effect, and help the company elevate its status from a great company to a lasting giant.
 
 <br />
 It is arguable that advertisers (as the other type of users) alone can help create lasting companies. IMO, they don’t add enough value for the consumers, and therefore more often than not, companies need to add another types of users. I believe this is the reason Google & Apple need developers and apps on their platforms.
