@@ -9,7 +9,7 @@ Have you ever wondered how kids learn their first set of languages,
 and how it is different from the way, we grown-ups, learn new languages?
 I think, kids learn them and the real world at the same time,
 hence they map words with real things - like the word 'chocolate' with
-something sweet in a wraper they love to eat.
+something sweet in a wrapper they love to eat.
 <br />
 <br />
 On the other hand, when grown-ups try to learn one - they
@@ -31,7 +31,7 @@ their previous known languages.
 I think all this holds true for programming languages too. When you
 learn your first programming language - you are not only learning a
 new language, you are learning programming too.
-After that, every new programming language you learn you subconciously
+After that, every new programming language you learn you subconsciously
 try to map it's constructs with known ones. And this is when, for
 starters, learning one from a different paradigm
 seems very tough. In my particular case, I found it extremely hard to
@@ -45,7 +45,7 @@ object oriented programming to functional programming jump was
 comparatively easy.
 <br />
 <br />
-Be it human or programming languages, you learn them by practicing
+Be it human languages or programming ones, you learn them by practicing
 them. And in this context, I feel, programming languages are easier to
 learn than human languages. It takes courage
 and readiness to make mistakes to learn new human languages, and
@@ -53,6 +53,6 @@ therefore, not surprsingly, you will still find me trying to use Hindi instead
 of Kannada on the streets of Bangalore.  
 <br />
 <br />
-PS: "What is your good name" is literal hindi transalation of "Aapka
+PS: "What is your good name" is literal Hindi transalation of "Aapka
 shubh naam kya hai", a polite way of asking somebody's name in North
 India.

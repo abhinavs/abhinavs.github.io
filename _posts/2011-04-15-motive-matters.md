@@ -32,7 +32,7 @@ then again, he is morally wrong. He should consider it as his duty.
 In Hindu context, this is exactly what Krishna said in Geeta, and we almost
 always misunderstand the message.
 Doing your duty without considering the potential benefit you might
-get is the right thing to do (karmandeya ma phaluese kadachana)
+get is the right thing to do (_Karmanye ma phaleshu kadachana_)
 whereas the common notion is doing your duty will improve your karma
 points which will help you later (if you believe in reincarnation,
 they might be helpful in laters births too). Hope you see that all of this is morally wrong.
