@@ -13,7 +13,7 @@ I'm a generalist with interest in entrepreneurship, programming, poetry, social 
 ## A few more things about me
 
 * I grew up in [Narsinghgarh](http://en.wikipedia.org/wiki/Narsinghgarh,_Rajgarh), a beautiful little town in Madhya Pradesh, India.
-* In my eleven years of engineering experience, I have developed large scale data products, messaging systems, platform services, logistics and supply chain management systems, social games and social e-commerce systems.
+* In my thirteen years of engineering experience, I have developed large scale data products, messaging systems, platform services, logistics and supply chain management systems, social games and social e-commerce systems.
 * I can code in more than ten programming languages, and have written production code in seven of them. Currently, I am learning [elixir](http://elixir-lang.org/), a new functional programming language similar to ruby in syntax built on top of Erlang VM.
 * I love building tools and APIs for developers, checkout my publicly available work at [abhinav.co](http://www.abhinav.co/)
 * I am a big Gulzar fan, and I believe, he is one of the greatest poets alive.
