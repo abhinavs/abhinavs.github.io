@@ -14,11 +14,12 @@ $base-font: 'SS SSm A', 'SS SSm B', 'PT Serif', serif;
 $heading-font: 'SS SSm A', 'SS SSm B', 'PT Sans Narrow', sans-serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 */
-/*$base-font: "Open Sans", Roboto, Helvetica, Arial, -apple-system, sans-serif;
-$heading-font:  "Open Sans", Roboto, Helvetica, Arial,  -apple-system, sans-serif;;
-*/
+/*
 $base-font: Helvetica Neue, Helvetica, Arial, -apple-system, sans-serif;
-$heading-font: Helvetica Neue, Helvetica, Arial,  -apple-system, sans-serif;;
+$heading-font:  Helvetica Neue, Helvetica, Arial,  -apple-system, sans-serif;;
+*/
+$base-font: "Roboto", monospace;
+$heading-font: "Open Sans", monospace;
 $code-font: monospace;
 $alt-font: $base-font;
 
