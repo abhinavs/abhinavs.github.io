@@ -18,9 +18,9 @@ $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono
 $base-font: Helvetica Neue, Helvetica, Arial, -apple-system, sans-serif;
 $heading-font:  Helvetica Neue, Helvetica, Arial,  -apple-system, sans-serif;;
 */
-$base-font: "Roboto", monospace;
-$heading-font: "Open Sans", monospace;
+$heading-font: "Open Sans", "Work Sans", system-ui, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif, monospace;
 $code-font: monospace;
+$base-font: "Work Sans", system-ui, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif, monospace;
 $alt-font: $base-font;
 
 /* 
