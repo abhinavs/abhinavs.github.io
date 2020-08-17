@@ -6,7 +6,7 @@ tags: [Slack, Workplace, Office, Productivity, Collaboration]
 comments: true
 ---
 
-Slack has become an important tool to make the workplace more collaborative. In these COVID-19 times, the importance of Slack has increased further. However, it has also become the primary reason for stress, fatigsue and degraded productivity. Here are some of the Slack etiquettes to keep in mind
+Slack has become an important tool to make the workplace more collaborative. In these COVID-19 times, the importance of Slack has increased further. However, it has also become the primary reason for stress, fatigue and degraded productivity. Here are some of the Slack etiquettes to keep in mind
 <br />
 
 ## Email
