@@ -3,7 +3,7 @@ layout: post
 title: Hackintosh
 excerpt: "My five-hour struggle to install Yosemite on an old Lenevo laptop;
 some learnings"
-tags: [Yosemite, OSX, Hackintosh]
+tags: [Yosemite, OSX, Hackintosh, Tech, TechNotes]
 comments: true
 ---
 For the longest time, I wanted to experiment installing OS X on my laptop. I recently got the chance to
