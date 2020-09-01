@@ -10,13 +10,14 @@ $doc-font-size: 13;
 $doc-line-height: 26;
 $paragraph-indent: true !default;
 /*
-$base-font: 'SS SSm A', 'SS SSm B', 'PT Serif', serif;
-$heading-font: 'SS SSm A', 'SS SSm B', 'PT Sans Narrow', sans-serif;
-$code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
-*/
 $heading-font: "Zilla Slab", "Roboto Slab", system-ui, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif, monospace;
-$code-font: monospace;
+$code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $base-font: "Spectral", monospace, system-ui, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif, monospace;
+*/
+$base-font: "Roboto", "Lato", 'SS SSm A', 'SS SSm B', 'PT Serif', serif;
+$heading-font: "Roboto", "Lato", 'SS SSm A', 'SS SSm B', 'PT Sans Narrow', sans-serif;
+$code-font: monospace;
+
 $alt-font: $base-font;
 
 /* 
@@ -24,6 +25,7 @@ $alt-font: $base-font;
    ========================================================================== */
 
 $bodycolor      : #ECF2FF;
+$bodycolor      : #FFF;
 $body-color     : $bodycolor;
 $textcolor      : #333332;
 $text-color     : $textcolor;

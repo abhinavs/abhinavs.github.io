@@ -166,9 +166,16 @@ li {
 		background-color: #efefef;
 		@include rounded(3px);
 	}
+        pre {
+                code {
+                        font-size: 0.8rem !important;
+                    }
+        }
 }
 pre {
-	@include font-rem(12);
+        // Abhinav
+	// @include font-rem(12);
+        font-size: 0.8rem !important;
 	line-height: 1.5;
 	overflow-x: auto;
 }
