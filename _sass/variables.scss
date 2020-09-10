@@ -5,8 +5,6 @@
 /* 
    Typography
    ========================================================================== */
-
-
 $doc-font-size: 13;
 $doc-line-height: 26;
 $paragraph-indent: true !default;
@@ -15,8 +13,8 @@ $heading-font: "Zilla Slab", "Roboto Slab", system-ui, -apple-system, BlinkMacSy
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $base-font: "Spectral", monospace, system-ui, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif, monospace;
 */
-$base-font: "Karla", "Roboto", "Lato", 'SS SSm A', 'SS SSm B', 'PT Serif', serif;
-$heading-font: "Karla", "Roboto", "Lato", 'SS SSm A', 'SS SSm B', 'PT Sans Narrow', sans-serif;
+$base-font: "Avenir", "Avenir Next", "Roboto", "Amiko", "Karla", "Lato", 'SS SSm A', 'SS SSm B', 'PT Serif', serif;
+$heading-font: "Avenir", "Avenir Next", "Roboto", "Abhaya Libre", "Amiko", "Karla", "Lato", 'SS SSm A', 'SS SSm B', 'PT Sans Narrow', sans-serif;
 $code-font: monospace;
 
 $alt-font: $base-font;
