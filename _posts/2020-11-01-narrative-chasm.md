@@ -13,6 +13,6 @@ However, in an attempt to create a compelling narrative, entrepreneurs often kno
 
 The biggest trouble happens when everybody in the company starts believing that narrative as reality. Mid-level managers and employees fall for this more given they hear it regularly in pep-talks. Companies become over-confident, underestimate the challenges they face, neglect org culture, forget about customer experience, build unnecessary & complex features, and get into mega-hiring spree.
 
-This lack of self-awareness and humility prevents them from realizing the story of their narrative. They fail to achieve their true potential.
+This lack of self-awareness and humility prevents them from achieving their real potential.
 
-This is a **chasm** that even most of the successful companies never cross.
+This is a **chasm** that even most of the successful companies never cross. They never become truly glorious.
