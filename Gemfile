@@ -1,8 +1,11 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'jekyll-sitemap'
-gem 'octopress', '~> 3.0.0.rc.12'
 group :jekyll_plugins do
    gem "jekyll-gist"
  end
+gem "jekyll", "~> 4.1.1"
+gem "jekyll-feed", "~> 0.15.0"
+gem "jekyll-seo-tag", "~> 2.7.1"
+gem "jekyll-sitemap"
+gem "jekyll-analytics"
+gem "rake"
