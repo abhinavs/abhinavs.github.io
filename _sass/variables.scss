@@ -5,8 +5,9 @@
 /* 
    Typography
    ========================================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 $doc-font-size: 14;
-$doc-line-height: 26;
+$doc-line-height: 20;
 $paragraph-indent: true !default;
 /*
 $base-font: 'SS SSm A', 'SS SSm B', 'PT Serif', serif;
@@ -15,12 +16,17 @@ $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono
 $base-font: "Spectral", monospace, system-ui, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif, monospace;
 */
 
-$base-font: "Roboto", -apple-system,  'avenir next', avenir, roboto, noto, ubuntu, 'helvetica neue', helvetica, arial, sans-serif;
+$base-font: "Inter", "Roboto", -apple-system,  'avenir next', avenir, roboto, noto, ubuntu, 'helvetica neue', helvetica, arial, sans-serif;
 //$heading-font: "Kumbh Sans", "Avenir", "Avenir Next", "Lato", 'SS SSm A', 'SS SSm B', 'PT Sans Narrow', sans-serif;
 $heading-font: $base-font;
 $code-font: monospace;
 
 $alt-font: $base-font;
+
+// Abhinav
+h1, h2, h3, h4 { margin-top: $doc-line-height*2px; }
+
+// Abhinav End
 
 /* 
    Colors
