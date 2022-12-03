@@ -4,6 +4,7 @@ title: Microrequests
 excerpt: "Microrequests is a wrapper over Python's requests module - makes it more efficient to consume microservices in Python"
 tags: [microrequests, Microservices, Open Source, Module, Library, Python, pip]
 comments: true
+canonical_url: 'https://www.abhinav.co/microrequests'
 ---
 Microservices have slowly become the chosen way of building systems in large and small companies - they work because they allow decentralisation and the separation of concern which helps when the number of teams in an organisation starts growing.
 

@@ -4,6 +4,7 @@ title: Game Theory and Public Systems
 excerpt: "Short note on corruption in public systems and how to see it from a game theory perspective"
 tags: [Game Theory, Public Systems]
 comments: true
+canonical_url: 'https://www.abhinav.co/game-theory-and-public-systems'
 ---
 From a game theoretic point of view, in a game, each player acts according to his incentives. He chooses a strategy that maximizes his payoff, taking into account of other players possible strategies. And in a well designed system, protocols and incentives are designed such that payoffs are maximum for a player when he follow the rules of the game (or at least most of the rules most of the time.) In other words, honesty is just a strategy and most players choose to follow it in such games.  
 <br/>

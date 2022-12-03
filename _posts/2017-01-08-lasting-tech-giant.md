@@ -4,6 +4,7 @@ title: From a great consumer product to a lasting tech giant
 #excerpt: ""
 tags: [Twitter, StartUp, Amazon, Google, Yahoo, Facebook, Apple]
 comments: true
+canonical_url: 'https://www.abhinav.co/lasting-tech-giant'
 ---
 I love twitter for their product, and have spent some time thinking why it’s not succeeding as a company. As far as my naive thinking goes, there are more than 140 million users like me who use Twitter everyday and love it - it’s a great consumer product. But when it comes to growth as a business, it’s on a downhill.
 

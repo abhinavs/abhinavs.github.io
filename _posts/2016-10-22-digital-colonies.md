@@ -4,6 +4,7 @@ title: Digital Colonies
 excerpt: "Is our time and attention new land to be explored and are Internet giants new colonial powers?"
 tags: [technology, startup, digital-colonies]
 comments: true
+canonical_url: 'https://www.abhinav.co/digital-colonies'
 ---
 I always wondered how stupid our government was to throw out multinational companies like IBM and Coca Cola from the country in 1970s. If they had not, the liberalization process and growth which started only after 1992, could have started much earlier. Similarly, I also believed Chinese government is wrong in providing unfair advantages to Chinese companies over global Internet giants. Perhaps I did not have an open mind to understand other perspectives.
 <br /><br />

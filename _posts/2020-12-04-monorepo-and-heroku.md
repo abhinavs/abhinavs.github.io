@@ -4,6 +4,7 @@ title: Monorepo and Heroku
 excerpt: "If you use a monorepo setup to power multiple apps, using Heroku isn't straight forward, however is easy and definitely possible."
 tags: [Monorepo, Heroku]
 comments: true
+canonical_url: 'https://www.abhinav.co/monorepo-and-heroku'
 ---
 
 A monorepo is a repository that contains multiple sites or apps, each in its own subdirectory. Heroku assumes that you have different repos for different apps, however, in case you have a monorepo and want to deploy different apps on heroku to power them, you can do the following:

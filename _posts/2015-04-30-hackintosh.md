@@ -5,6 +5,7 @@ excerpt: "My five-hour struggle to install Yosemite on an old Lenevo laptop;
 some learnings"
 tags: [Yosemite, OSX, Hackintosh, Tech, TechNotes]
 comments: true
+canonical_url: 'https://www.abhinav.co/hackintosh'
 ---
 For the longest time, I wanted to experiment installing OS X on my laptop. I recently got the chance to
 try it out for the first time. Though it took me more than five hours to get it right, but it was worth it.

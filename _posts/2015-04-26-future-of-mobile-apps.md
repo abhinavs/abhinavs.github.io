@@ -4,6 +4,7 @@ title: Future of Mobile Apps
 excerpt: "My thoughts on future of mobile apps"
 tags: [Mobile, Apps, Cards]
 comments: true
+canonical_url: 'https://www.abhinav.co/future-of-mobile-apps'
 ---
 
 I found it hard to convey my thoughts in form of coherent text, wrote in points instead.

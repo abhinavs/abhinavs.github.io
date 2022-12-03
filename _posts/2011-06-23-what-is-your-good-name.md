@@ -4,6 +4,7 @@ title: What is your good name?
 excerpt: "How do we learn new languages?"
 tags: [Programming, Languages]
 comments: true
+canonical_url: 'https://www.abhinav.co/what-is-your-good-name'
 ---
 Have you ever wondered how kids learn their first set of languages,
 and how it is different from the way, we grown-ups, learn new languages?

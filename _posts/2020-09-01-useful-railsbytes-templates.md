@@ -4,6 +4,7 @@ title: 8 useful Rails Bytes to improve your development process
 excerpt: "Rails Bytes is a platform to share useful Ruby on Rails templates"
 tags: [Ruby, RoR, Rails, Development, Tech, TechNotes, RailsBytes, HAML, DotEnv]
 comments: true
+canonical_url: 'https://www.abhinav.co/useful-railsbytes-templates'
 ---
 
 [Rails Bytes](https://railsbytes.com/) is a platform created by Chris Oliver aka [excid3](http://excid3.com/) to share useful Ruby on Rails recipes/templates. These templates allow you to add features to both old and new apps. In the background, these templates may install a gem, run their installation steps, or edit configurations themselves. Of late, I have been using Rails Bytes for my new Rails apps, and here are a few of them (in no particular order) which I find very useful.

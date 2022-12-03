@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Slack Etiquettes
+title: Slack Etiquette
 excerpt: "Create a better & saner work environment"
 tags: [Slack, Workplace, Office, Productivity, Collaboration]
 comments: true
+canonical_url: 'https://www.abhinav.co/slack-etiquettes'
 ---
 
 Slack has become an important tool to make the workplace more collaborative. In these COVID-19 times, the importance of Slack has increased further. However, it has also become the primary reason for stress, fatigue and degraded productivity. Here are some of the Slack etiquettes to keep in mind

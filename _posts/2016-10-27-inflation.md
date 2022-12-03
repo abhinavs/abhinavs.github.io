@@ -4,6 +4,7 @@ title: Inflation
 excerpt: "We take inflation for granted. We relate it with growing economies, and..."
 tags: [economics, bitcoin, inflation]
 comments: true
+canonical_url: 'https://www.abhinav.co/inflation'
 ---
 We take inflation for granted. We relate it with growing economies, and we see zero inflation and deflation as a sign of stagnating or shrinking economies.
 

@@ -4,6 +4,7 @@ title: About Me
 tags: [about, Abhinav]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
+canonical_url: 'https://www.abhinav.co/about'
 #image:
 #  feature: sample-image-2.jpg
 ---

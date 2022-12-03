@@ -4,6 +4,7 @@ title: Narrative Chasm
 excerpt: "A good narrative is as important as an excellent product, however be vary of believing the story yourself."
 tags: [Narrative, Startup, Chasm]
 comments: true
+canonical_url: 'https://www.abhinav.co/narrative-chasm'
 ---
 Every company and entrepreneur needs a narrative to tell to the world. A good narrative is almost as important as an excellent product.
 

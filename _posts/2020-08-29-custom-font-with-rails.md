@@ -4,6 +4,7 @@ title: Custom fonts in your Rails app
 excerpt: "Using custom font in your rails app is simple, but not that straight forward"
 tags: [Rails, Tech, TechNotes, Ruby, Font, Design, CSS]
 comments: true
+canonical_url: 'https://www.abhinav.co/custom-font-with-rails'
 ---
 There are numerous free fonts available on the Internet, and most of them are also available on [Google Fonts](https://fonts.google.com/). Using fonts available on Google is an extremely simple and straight forward thing. You can use any of the following techniques
 

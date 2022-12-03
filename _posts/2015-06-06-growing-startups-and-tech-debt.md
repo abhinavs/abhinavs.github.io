@@ -4,6 +4,7 @@ title: Growing startups and technical debt
 #excerpt: ""
 tags: [Startup, Technology]
 comments: true
+canonical_url: 'https://www.abhinav.co/growing-startups-and-tech-debt'
 ---
 I recently read a post - [Why the way we look at technical debt is wrong.](http://bigeng.io/post/118399425343/why-the-way-we-look-at-technical-debt-is-wrong)
 <br/>

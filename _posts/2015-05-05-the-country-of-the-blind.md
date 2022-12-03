@@ -4,6 +4,7 @@ title: The Country of the Blind
 excerpt: "In the country of the blind, is the one-eyed man always a king?"
 tags: [Story, Philosophy]
 comments: true
+canonical_url: 'https://www.abhinav.co/the-country-of-the-blind'
 ---
 As a kid I read a few stories which have stayed in my mind and thoughts for years now. This post is about one of them which I read in my English text-book - "The Country of the Blind". I don't remember the exact class I read it in, but even during those days, it made me think about evolution and as a society, how hard it is to accept something which is different from our own established notion of correctness. This is how I remember the story:
 <br/>

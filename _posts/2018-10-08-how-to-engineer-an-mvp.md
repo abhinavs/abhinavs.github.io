@@ -4,6 +4,7 @@ title: How to engineer an MVP
 excerpt: "A few things to take care while building your MVP"
 tags: [MVP, StartUp, Product Development, Engieering]
 comments: true
+canonical_url: 'https://www.abhinav.co/how-to-engineer-an-mvp'
 ---
 As per wikipedia, MVP or Minimal Viable Product is a product with just enough features to satisfy early customers, and to provide feedback for future product development. 
 

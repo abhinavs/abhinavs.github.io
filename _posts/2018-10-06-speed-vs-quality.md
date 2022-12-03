@@ -4,6 +4,7 @@ title: Speed and Quality
 excerpt: Should speed and quality be mutually exclusive?
 tags: [Technology, Startup, Speed, Qualty, Engineering]
 comments: true
+canonical_url: 'https://www.abhinav.co/speed-vs-quality'
 ---
 Speed vs Quality is a common debate in engineering and product organizations and though it is hard to move at speed while maintaining quality, but I believe it is not completely impossible. Here are some tips (in no specific order) to balance between the two
 * Understand the product vision, and then engineer MVP or first version. Aim should be to develop an extensible but not the eventual system on day one. Focus on getting an end-to-end happy flow working, then edge cases, and then new scope changes.

@@ -4,6 +4,7 @@ title: Mac - How to fix Python error "ERROR:root:code for hash md5 was not found
 excerpt: "This error is actually because of Homebrew and not exactly because of Python"
 tags: [Python, Mac, OSX, Error, Fix, Brew, Tech, TechNotes, OpenSSL, Homebrew]
 comments: true
+canonical_url: 'https://www.abhinav.co/fix-python-error-root-code-for-hash-md5-not-found'
 ---
 While trying to install a few packages using [Pip](https://pypi.org/project/pip/), I encountered following error: "ERROR:root:code for hash md5 was not found". For reference, here is the **stacktrace** that I saw:
 ```

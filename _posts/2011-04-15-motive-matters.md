@@ -4,6 +4,7 @@ title: Motive Matters
 excerpt: "Is doing right thing sufficient or motive matters?"
 tags: [Philosophy, Michael Sandel, Immanuel Kant]
 comments: true
+canonical_url: 'https://www.abhinav.co/motive-matters'
 ---
 Dr Michael Sandel, Professor of Philosophy at Harvard, teaches a very
 popular and widely attended course - "Justice - what is right thing to do". 
